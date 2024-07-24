@@ -14,6 +14,11 @@ body {
   font-weight: bold;
 }
 
+#footer-tag {
+  color: #f9faf8;
+  font-size: 24px;
+}
+
 .header-links {
   display: flex;
   color: #f9faf8;
@@ -130,6 +135,7 @@ body {
   background: gray;
   align-items: center;
   justify-content: center;
+  padding: 64px 128px;
 }
 
 .placeholder {
